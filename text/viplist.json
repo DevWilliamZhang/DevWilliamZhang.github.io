@@ -33,14 +33,14 @@
     {
       "name": "pptv",
       "url": "http://vip.pptv.com",
-      "image": "https://devwilliamzhang.github.io/images/le.png"
-    },
-     {
-      "name": "秒拍",
-      "url": "http://www.miaopai.com",
-      "image": "https://devwilliamzhang.github.io/images/le.png"
+      "image": "https://devwilliamzhang.github.io/images/pp.png"
     },
     {
+      "name": "咪咕",
+      "url": "http://www.migu.cn",
+      "image": "https://devwilliamzhang.github.io/images/migu.png"
+    },
+    { 
       "name": "52影院",
       "url": "http://www.52xsba.com/",
       "image": "https://devwilliamzhang.github.io/images/52log.png"
