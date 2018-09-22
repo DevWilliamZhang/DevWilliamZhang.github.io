@@ -1,5 +1,10 @@
 {
   "platformlist": [
+  	{
+      "name": "shi'yong使用bang'zhu",
+      "url": "https://devwilliamzhang.github.io/guide/",
+      "image": "https://devwilliamzhang.github.io/images/guide.png"
+    },
     {
       "name": "腾讯视频",
       "url": "https://v.qq.com/",
